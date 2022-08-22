@@ -10,7 +10,7 @@
 -->
 English | [简体中文](https://github.com/missuo/XrayR-V2Board/blob/main/README_CN.md)
 
-[Speed up your nodes with Amazon CDN (CloudFront)](https://github.com/missuo/XrayR-V2Board/blob/main/CloudFront.md)
+[Speed up your nodes with Amazon CDN (CloudFront)](https://github.com/alinu66/XrayR-V2Board/blob/main/CloudFront.md)
 
 ## Description
 1. Thanks to `XrayR` all authors for their contributions
